@@ -6,7 +6,7 @@
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=mamenfb&label=Profile%20views&color=0e75b6&style=flat" alt="mamenfb" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo en un bootcamp de F5 y Fundación Tomillo de Desarrollo web Full Stack y Ciberseguridad
+- 🌱 Actualmente estoy aprendiendo en un Bootcamp de F5 y Fundación Tomillo de Desarrollo Web Full Stack y Ciberseguridad
 
 - 🤝 En busqueda de empleo 👌   
 ## about me in code
