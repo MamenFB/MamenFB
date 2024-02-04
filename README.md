@@ -8,8 +8,9 @@
 
 - 🌱 Actualmente estoy aprendiendo **en un bootcamp de F5 y Fundación Tomillo de Desarrollo web Full Stack y Ciberseguridad**
 
-- 🤝 Busco ayuda con **busqueda de empleo**👌
-
+- 🤝 Busco ayuda con **busqueda de empleo**👌   ¯\_(ツ)_/¯
+## about me in code
+```js
 const mamen = {
 
     code: [Javascript, Python, Html, Css],
@@ -17,7 +18,7 @@ const mamen = {
     tools: [React, Docker],
 
 }
-
+```
 
 
 
