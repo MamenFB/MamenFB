@@ -6,21 +6,21 @@
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=mamenfb&label=Profile%20views&color=0e75b6&style=flat" alt="mamenfb" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **un curso en un bootcamp de F5 y Fundación Tomillo de Desarrollo web Full Stack y Ciberseguridad**
+- 🌱 Actualmente estoy aprendiendo **en un bootcamp de F5 y Fundación Tomillo de Desarrollo web Full Stack y Ciberseguridad**
 
 - 🤝 Busco ayuda con **busqueda de empleo**👌
 
+const mamen = {
+
+    code: [Javascript, Python, Html, Css],
+
+    tools: [React, Docker],
+
+}
 
 
 
 
 
-- 📄 Conoce mis experiencias [Próximamente ](Próximamente)
-
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Idiomas y herramientas:</h3>
 
 
