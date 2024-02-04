@@ -7,10 +7,10 @@
 
 - 🤝 Busco ayuda con **busqueda de empleo**
 
-- 📫 Cómo contactarme [www.linkedin.com/in/mamen-fb]( www.linkedin.com/in/mamen-fb)
 
 
-- 📫 Cómo contactarme **fbmaricarmen@gmail.com**
+
+
 
 - 📄 Conoce mis experiencias [Próximamente ](Próximamente)
 
