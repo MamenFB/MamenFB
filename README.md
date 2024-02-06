@@ -9,7 +9,7 @@
 - 🌱 Actualmente estoy aprendiendo en F5 y Fundación Tomillo un Bootcamp  de Desarrollo Web Full Stack y Ciberseguridad
 - 💫 Además de mi interés en la tecnología, mantengo un estilo de vida activo y saludable a través de mi afición por los deportes de raqueta, la natación y el ciclismo. Estas actividades no solo me proporcionan un equilibrio físico, sino que también fomentan una mentalidad de perseverancia y auto-mejora que aplico en todos los aspectos de mi vida.
 - 💪 Mi objetivo es integrar estas pasiones y valores en mi carrera, buscando oportunidades que me permitan innovar, colaborar y contribuir de manera significativa.
-- y me encanta Rock & Roll 😜🤘   Oh yeah!!!😎💥
+- Ay se me olvidaba, me encanta Rock & Roll 😜🤘, Oh yeah!!!😎💥
 
 - 🤝 En busqueda de empleo 👌   
 ## about me in code
