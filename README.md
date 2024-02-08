@@ -21,8 +21,7 @@ const mamen = {
 ```
 
 
-<h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **fbmaricarmen@gmail.com**
+
 <p align="left">
 </p>
 
