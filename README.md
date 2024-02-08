@@ -2,15 +2,14 @@
 <h3 align="center">Una apasionada desarrolladora 💻 Frontend y
  Backend de Madrid</h3>
 
-![ADICTA AL ROCK](https://github.com/MamenFB/MamenFB/assets/106315129/f560f131-4db4-48d7-ba59-d6a9e7ac85d2)
+![readme](https://github.com/MamenFB/MamenFB/assets/106315129/bd2c7679-3053-4921-86b2-a6ab85706597)
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=mamenfb&label=Profile%20views&color=0e75b6&style=flat" alt="mamenfb" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo en F5 y Fundación Tomillo un Bootcamp  de Desarrollo Web Full Stack y Ciberseguridad
-- 💫 Además de mi interés en la tecnología, mantengo un estilo de vida activo y saludable a través de mi afición por los deportes de raqueta, la natación y el ciclismo. Estas actividades no solo me proporcionan un equilibrio físico, sino que también fomentan una mentalidad de perseverancia y auto-mejora que aplico en todos los aspectos de mi vida.
-- 💪 Mi objetivo es integrar estas pasiones y valores en mi carrera, buscando oportunidades que me permitan innovar, colaborar y contribuir de manera significativa.
-
-
+- 🌱 Actualmente estoy aprendiendo en F5 y Fundación Tomillo un Bootcamp  de Desarrollo Web Full Stack y Ciberseguridad.
+- 💫 Tengo pasión por la tecnología lo cual fomenta una mentalidad enfocada en la perseverancia y la mejora continua. Estos principios fundamentales se reflejan en mi vida personal y tienen un impacto directo en mi enfoque profesional. Me esfuerzo por aplicar una ética de trabajo rigurosa y una dedicación sin límites en la búsqueda de la excelencia en cada uno de los proyectos y desafíos tecnológicos que afronto.
+- 💪 Mi meta es encontrar oportunidades que me desafíen a innovar, colaborar y contribuir de manera significativa.
+- 
 - 🤝 En busqueda de empleo 👌   
 ## about me in code
 ```js
