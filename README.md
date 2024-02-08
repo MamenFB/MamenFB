@@ -6,7 +6,7 @@
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=mamenfb&label=Profile%20views&color=0e75b6&style=flat" alt="mamenfb" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo en F5 y Fundación Tomillo un Bootcamp  de Desarrollo Web Full Stack y Ciberseguridad.
+- 🌱 Actualmente, estoy participando en un Bootcamp de Desarrollo Web Full Stack y Ciberseguridad, organizado por F5 y la Fundación Tomillo. Este programa intensivo me está proporcionando una formación exhaustiva en las disciplinas fundamentales del desarrollo web y la ciberseguridad, preparándome para abordar desafíos complejos en el ámbito tecnológico.
 - 💫 Tengo pasión por la tecnología lo cual fomenta una mentalidad enfocada en la perseverancia y la mejora continua. Estos principios fundamentales se reflejan en mi vida personal y tienen un impacto directo en mi enfoque profesional. Me esfuerzo por aplicar una ética de trabajo rigurosa y una dedicación sin límites en la búsqueda de la excelencia en cada uno de los proyectos y desafíos tecnológicos que afronto.
 - 💪 Mi meta es encontrar oportunidades que me desafíen a innovar, colaborar y contribuir de manera significativa.
 - 
