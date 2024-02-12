@@ -2,7 +2,8 @@
 <h3 align="center">Una apasionada desarrolladora 💻 Frontend y
  Backend de Madrid</h3>
 
-![readme](https://github.com/MamenFB/MamenFB/assets/106315129/bd2c7679-3053-4921-86b2-a6ab85706597)
+![readme](https://github.com/MamenFB/MamenFB/assets/106315129/4707e9f0-b230-4b19-9500-ff5a74042ecb)
+
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=mamenfb&label=Profile%20views&color=0e75b6&style=flat" alt="mamenfb" /> </p>
 
