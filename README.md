@@ -22,13 +22,15 @@ const mamen = {
 }
 ```
 
-![HTML](https://img.shields.io/badge/HTML-5-green)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![HTML](https://img.shields.io/badge/HTML-5-green)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/Node.js-v14.x-green)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-17-blue)](https://reactjs.org/)
 [![Express](https://img.shields.io/badge/Express-4.x-lightgrey)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4-green)](https://www.mongodb.com/)
+
+
 
 
 
