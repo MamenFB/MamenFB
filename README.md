@@ -29,6 +29,7 @@ const mamen = {
 [![React](https://img.shields.io/badge/React-17-blue)](https://reactjs.org/)
 [![Express](https://img.shields.io/badge/Express-4.x-lightgrey)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4-green)](https://www.mongodb.com/)
+[![Python](https://img.shields.io/badge/Python-3-blue)](https://www.python.com/)
 
 
 
