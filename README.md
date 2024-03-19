@@ -22,14 +22,18 @@ const mamen = {
 }
 ```
 
-[![HTML](https://img.shields.io/badge/HTML-5-green)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Node.js-v14.x-green)](https://nodejs.org/)
-[![React](https://img.shields.io/badge/React-17-blue)](https://reactjs.org/)
-[![Express](https://img.shields.io/badge/Express-4.x-lightgrey)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4-green)](https://www.mongodb.com/)
-[![Python](https://img.shields.io/badge/Python-3-blue)](https://www.python.com/)
+![Static Badge](https://img.shields.io/badge/HTML-5-green?logo=Html)
+![Static Badge](https://img.shields.io/badge/CSS-3-blue?logo=CSS)
+![Static Badge](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=JavaScript)
+![Static Badge](https://img.shields.io/badge/Python-3-blue?logo=Python)
+![Static Badge](https://img.shields.io/badge/Node.js-v14.x-green?logo=Node)
+![Static Badge](https://img.shields.io/badge/React-17-blue?logo=React)
+![Static Badge](https://img.shields.io/badge/expressL-4.18.2-green?logo=express)
+![Static Badge](https://img.shields.io/badge/Docker-25-blue?logo=Doker)
+![Static Badge](https://img.shields.io/badge/MongoDB-4-green?logo=MongoDB)
+![Static Badge](https://img.shields.io/badge/MySQL-8.0-blue?logo=MySQL)
+
+
 
 
 
