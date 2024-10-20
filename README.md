@@ -14,12 +14,17 @@
 ## about me in code
 ```js
 const mamen = {
+    skills: {
+        frontEnd: ['CSS', 'HTML', 'JavaScript', 'TypeScript', 'Bootstrap', 'React', 'Cypress Testing'],
+        backEnd: ['Node', 'Python', 'Express', 'Django/Flask', 'Jess Testing'],
+        databases: ['MySQL', 'MongoDB', 'DB Browser for SQLite', 'Firebase'],
+        tools: ['Docker', 'GitHub', 'AWS Cloud', 'Kali Linux', 'WordPress'],
+        editors: ['Word', 'Visual Studio Code', 'PyCharm', 'Jupyter'],
+        otherTools: ['Figma', 'Trello', 'Photoshop']
+    }
+};
 
-    code: [Javascript, Python, Html, Css],
-
-    tools: [React, Django, Docker],
-
-}
+   
 ```
 
 ![Static Badge](https://img.shields.io/badge/HTML-5-green?logo=Html)
