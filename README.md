@@ -1,6 +1,8 @@
-<h1 align="center">Hola 👋😊, soy Mamen</h1>
-<h3 align="center">Una apasionada desarrolladora 💻 Frontend y
- Backend de Madrid</h3>
+
+
+<h1 align="center">👋😊 ¡Hola! Soy Mamen 👩‍💻</h1>
+<h1 >✨¡Lista para hacer magia en la web y transformar ideas en realidad!</h1>
+
 
 
 ![1](https://github.com/MamenFB/MamenFB/assets/106315129/21d33f37-602d-4af6-8255-bd8ecf32f354)
