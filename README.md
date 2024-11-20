@@ -1,7 +1,7 @@
 
 
 <h1 align="center">👋😊 ¡Hola! Soy Mamen 👩‍💻</h1>
-<h1 >✨¡Lista para hacer magia en la web y transformar ideas en realidad!</h1>
+<h1 >✨¡Lista para hacer magia y transformar ideas en realidad!</h1>
 
 
 
