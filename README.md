@@ -24,7 +24,7 @@ const mamen = {
         frontEnd: ['CSS', 'HTML', 'JavaScript', 'TypeScript', 'Bootstrap', 'React', 'Cypress Testing'],
         backEnd: ['Node', 'Python', 'Express', 'Django/Flask', 'Jess Testing'],
         databases: ['MySQL', 'MongoDB', 'DB Browser for SQLite', 'Firebase'],
-        tools: ['Docker', 'GitHub', 'AWS Cloud', 'Kali Linux', 'WordPress'],
+        tools: ['Docker', 'GitHub', 'AWS Cloud Practitioner', 'Kali Linux', 'WordPress'],
         editors: ['Word', 'Visual Studio Code', 'PyCharm', 'Jupyter'],
         otherTools: ['Figma', 'Trello', 'Photoshop']
     }
