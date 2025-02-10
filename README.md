@@ -10,12 +10,12 @@
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=mamenfb&label=Profile%20views&color=0e75b6&style=flat" alt="mamenfb" /> </p>
 
-👩‍💻 Anteriormente, terminé un Bootcamp de Desarrollo Web Full Stack y Ciberseguridad, organizado por F5 y la Fundación Tomillo, que me ha proporcionado una formación exhaustiva en desarrollo web y ciberseguridad, preparándome para afrontar desafíos tecnológicos complejos con una perspectiva integral.
+👩‍💻 Completé un Bootcamp de Desarrollo Web Full Stack y Ciberseguridad, organizado por F5 y la Fundación Tomillo, que me brindó una formación sólida en desarrollo web y ciberseguridad, preparándome para abordar desafíos tecnológicos con una visión integral.
 
-🌱 Recientemente, he finalizado el Bootcamp de Cloud AWS re/Start y he obtenido la certificación AWS Certified Cloud Practitioner, adquiriendo habilidades clave en computación en la nube, gestión de infraestructura y servicios web. Esto complementa mi formación previa y amplía mis capacidades en el desarrollo y administración de sistemas cloud.
+🌱 Finalicé el Bootcamp de Cloud AWS re/Start y obtuve la certificación AWS Certified Cloud Practitioner, adquiriendo competencias clave en computación en la nube, gestión de infraestructura y servicios web, lo que amplía mis capacidades en el desarrollo y administración de sistemas cloud.
 
-🚀 Actualmente, estoy cursando el programa de Ciberseguridad de Google, ampliando mis conocimientos en seguridad informática para reforzar mis habilidades en este campo clave del ámbito tecnológico.
-  
+🚀 Actualmente estoy cursando el programa de Ciberseguridad de Google, profundizando en seguridad informática para seguir fortaleciendo mis habilidades en este campo estratégico del sector tecnológico.
+
 - 🤝 En busqueda de empleo 👌   
 ## about me in code
 ```js
