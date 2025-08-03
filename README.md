@@ -16,7 +16,7 @@
 
 🔒 Actualmente, sigo ampliando mis habilidades en  Ciberseguridad.
 
-- 🤝 En busqueda de empleo 👌   
+ 
 ## about me in code
 ```js
 const mamen = {
